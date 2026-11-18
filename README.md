@@ -145,6 +145,7 @@ Options: `l4d2_watcher.py "path\to\console.log"` uses a different `console.log`,
 - Some antivirus programs flag unsigned PyInstaller `.exe` files as suspicious. This is a known false positive; the source code is here to review.
 
 You can access my [public_watchlist.csv](examples/my_public_watchlist), which contains some cheaters found during the project's development.
+
 ---
 
 ## Español
