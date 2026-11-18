@@ -144,6 +144,7 @@ Options: `l4d2_watcher.py "path\to\console.log"` uses a different `console.log`,
 - Notifications use Windows. On other systems the alert only appears in the console.
 - Some antivirus programs flag unsigned PyInstaller `.exe` files as suspicious. This is a known false positive; the source code is here to review.
 
+You can access my [public_watchlist.csv](examples/my_public_watchlist), which contains some cheaters found during the project's development.
 ---
 
 ## Español
@@ -283,3 +284,5 @@ Opciones: `l4d2_watcher.py "ruta\a\console.log"` usa otro `console.log`, y `--no
 
 - Las notificaciones usan Windows. En otros sistemas el aviso solo sale en la consola.
 - Algunos antivirus marcan como sospechosos los `.exe` de PyInstaller sin firmar. Es un falso positivo conocido; el código está aquí para revisarlo.
+
+Puedes acceder a mi [public_watchlist.csv](examples/my_public_watchlist), con algunos cheaters encontrados en la realización del proyecto.
