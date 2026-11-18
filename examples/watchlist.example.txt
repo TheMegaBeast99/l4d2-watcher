@@ -1,0 +1,4 @@
+# Un Steam ID por línea (STEAM_X:Y:Z o SteamID64).
+# Lo que va después de // se muestra entre paréntesis en la notificación.
+STEAM_0:0:12345 //Cheater
+76561197960290419 //Ragebaiter

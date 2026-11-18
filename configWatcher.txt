@@ -1,0 +1,12 @@
+# Configuración de L4D2 Player Watcher.
+# Edita los valores y vuelve a abrir el programa.
+# Los archivos se buscan en la misma carpeta que el programa.
+
+# Segundos antes de volver a notificar al mismo jugador
+NOTIFY_COOLDOWN = 60
+
+# Watchlist personal (un Steam ID por línea, comentarios con //)
+WATCHLIST_FILE_NAME = "watchlist.txt"
+
+# Watchlist público (CSV: STEAMID,C1,C2,C3,R,T,O)
+PUBLIC_WATCHLIST_FILE_NAME = "public_watchlist.csv"
