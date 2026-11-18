@@ -78,7 +78,7 @@ PUBLIC_WATCHLIST_FILE_NAME = "public_watchlist.csv"
 
 #### `watchlist.txt` (private list)
 
-One Steam ID per line, as `STEAM_X:Y:Z` or SteamID64 (the 17-digit number). If you don't know them, but you have their profile link, you can use a site like [Steam ID Finder](https://steamid.xyz/). Whatever comes after `//` is shown in parentheses in the notification.
+One Steam ID per line, as `STEAM_X:Y:Z` or SteamID64 (the 17-digit number). If you don't know the Steam ID but have the player's profile link, you can visit a site like [Steam ID Finder](https://steamid.xyz/) to get it. Whatever comes after `//` is shown in parentheses in the notification.
 
 ```
 STEAM_0:0:2000000000 //Cheater
@@ -218,7 +218,7 @@ PUBLIC_WATCHLIST_FILE_NAME = "public_watchlist.csv"
 
 #### `watchlist.txt` (lista privada)
 
-Un Steam ID por línea, como `STEAM_X:Y:Z` o SteamID64 (el número de 17 dígitos). Si no los conoces, pero tienes el link de su perfil, puedes acceder a alguna página como lo puede ser [Steam ID Finder](https://steamid.xyz/). Lo que va después de `//` aparece entre paréntesis en la notificación.
+Un Steam ID por línea, como `STEAM_X:Y:Z` o SteamID64 (el número de 17 dígitos). Si no conoces el Steam ID, pero tienes el link de perfil del jugador, puedes acceder a alguna página como lo puede ser [Steam ID Finder](https://steamid.xyz/) y obtenerlo. Lo que va después de `//` aparece entre paréntesis en la notificación.
 
 ```
 STEAM_0:0:2000000000 //Cheater
